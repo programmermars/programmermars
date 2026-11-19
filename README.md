@@ -20,6 +20,7 @@ focused on manufacturing quality control and customer analytics.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Comanta Billing](https://github.com/programmermars/comanta-billing) | The quotation, invoice and receipt system my business runs on: online acceptance, one-page PDFs, payments and receipts, nightly database backup by email | Cloudflare Workers, D1, JavaScript |
 | [Bursa Annual Report RAG](https://github.com/programmermars/bursa-project) | Question answering over Malaysian listed companies' annual reports, with page-level citations and a measured retrieval evaluation | Python, Ollama, BM25 + embeddings, Streamlit |
 | [Bursa Risk Assistant](https://github.com/programmermars/bursa-risk-assistant) | Extracts risk disclosures and audit matters; every item carries a verbatim quote and page number, and unverifiable quotes are rejected | Python, FastAPI, Streamlit, n8n |
 | [video2obsidian](https://github.com/programmermars/video2obsidian) | Turns a video link into a timestamped, summarised note in an Obsidian vault | Python, faster-whisper, LLM backends |
