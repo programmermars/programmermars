@@ -42,5 +42,6 @@ focused on manufacturing quality control and customer analytics.
 
 #### 📫 Reach me
 
+- **Website:** [comanta.com.my](https://comanta.com.my/) (Comanta Solutions, my AI and workflow automation practice for Malaysian businesses; I designed and built the site)
 - **LinkedIn:** [jia-you-chong](https://www.linkedin.com/in/jia-you-chong-860701356)
 - **Email:** chongjiayou456@gmail.com
