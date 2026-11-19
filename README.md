@@ -12,7 +12,7 @@ focused on manufacturing quality control and customer analytics.
 - **Analytics:** pandas, scikit-learn, scipy
 - **BI & Stats:** Power BI, Minitab, matplotlib
 - **Methods:** SPC (control charts, Cp/Cpk), clustering (K-Means, PCA), unsupervised ML
-- **LLM applications:** retrieval-augmented generation (hybrid BM25 + vector search), grounded extraction with citation checks, retrieval evaluation, Ollama / Groq, Streamlit, FastAPI
+- **LLM and automation:** n8n, Azure OpenAI, Power Automate, speech-to-text and summarisation pipelines, Cloudflare Workers
 
 ---
 
@@ -21,8 +21,6 @@ focused on manufacturing quality control and customer analytics.
 | Project | What it does | Stack |
 |---|---|---|
 | [Comanta Billing](https://github.com/programmermars/comanta-billing) | The quotation, invoice and receipt system my business runs on: online acceptance, one-page PDFs, payments and receipts, nightly database backup by email | Cloudflare Workers, D1, JavaScript |
-| [Bursa Annual Report RAG](https://github.com/programmermars/bursa-project) | Question answering over Malaysian listed companies' annual reports, with page-level citations and a measured retrieval evaluation | Python, Ollama, BM25 + embeddings, Streamlit |
-| [Bursa Risk Assistant](https://github.com/programmermars/bursa-risk-assistant) | Extracts risk disclosures and audit matters; every item carries a verbatim quote and page number, and unverifiable quotes are rejected | Python, FastAPI, Streamlit, n8n |
 | [video2obsidian](https://github.com/programmermars/video2obsidian) | Turns a video link into a timestamped, summarised note in an Obsidian vault | Python, faster-whisper, LLM backends |
 | [Open Source Games site](https://github.com/programmermars/open-source-games-site) | Bilingual static site for a curated list of 182 open-source games, deployed automatically to Cloudflare Workers | Python build tools, HTML/CSS/JS, GitHub Actions |
 
